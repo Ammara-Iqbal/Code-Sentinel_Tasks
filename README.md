@@ -20,7 +20,7 @@ Welcome to the Graphic Designing Tasks repository! This collection showcases fiv
 - **Tool Used:** Canva  
 - **Deliverables:**
   - `code_sentinel_logo.png`
-  - `code_sentinel_logo.pdf` (vector version)
+  - `code_sentinel_logo.svg` (vector version)
 - **Style:** Futuristic, Minimal, Secure
 
 ---
@@ -31,7 +31,6 @@ Welcome to the Graphic Designing Tasks repository! This collection showcases fiv
 - **Tool Used:** Canva  
 - **Deliverables:**
   - `future_of_ai_poster.png`
-  - `future_of_ai_poster.pdf`
 - **Style:** Modern, Eye-catching, Tech-focused
 
 ---
@@ -42,7 +41,6 @@ Welcome to the Graphic Designing Tasks repository! This collection showcases fiv
 - **Tool Used:** Canva  
 - **Deliverables:**
   - `aylin_business_card_front.png`
-  - `aylin_business_card_back.png`
   - `aylin_business_card.pdf`
 - **Style:** Clean, Elegant, Creative
 
@@ -54,7 +52,7 @@ Welcome to the Graphic Designing Tasks repository! This collection showcases fiv
 - **Tool Used:** Canva  
 - **Deliverables:**
   - `programming_tips_template.png`
-  - `programming_tips_template_editable.canva`
+  - `programming_tips_template_editable.pdf`
 - **Style:** Aesthetic, Bold Typography, Social Media Friendly
 
 ---
@@ -65,7 +63,6 @@ Welcome to the Graphic Designing Tasks repository! This collection showcases fiv
 - **Tool Used:** Canva  
 - **Deliverables:**
   - `course_platform_banner.png`
-  - `course_platform_banner.pdf`
 - **Style:** Tech-modern, Promotional, User-friendly
 
 ---
